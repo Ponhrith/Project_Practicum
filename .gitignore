@@ -1,5 +1,10 @@
 .DS_Store
 /dist
 venv
-/PetImages
+/data
+MSR-LA - 3467.docx
+readme[1].txt
+test_set.pkl
+train_set.pkl
+valid_set.pkl
 ```
